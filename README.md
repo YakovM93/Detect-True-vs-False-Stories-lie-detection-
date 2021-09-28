@@ -1,0 +1,2 @@
+# Detect-True-vs-False-Stories-lie-detection-
+Detect True vs False Stories (lie detection),providing with a labeled corpus of narratives in Hebrew. The corpus is provided as a csv file. Each row represents a narrative. It has 5 fields: id, author_gender, author_birth_year, narrative and label. The label for each narrative indicates whether this is a true or false story (i.e. the author lied when he told the story) (label "1" for True, and "0" for false)
